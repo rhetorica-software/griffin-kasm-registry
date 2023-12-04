@@ -1,0 +1,21 @@
+{
+  "friendly_name": "ChromeAudit",
+  "image_src": "blob:https://rhetorica-software.github.io/b14d2cbc-ee44-45ce-8553-15d70b977b18",
+  "description": "Chrome",
+  "name": "silence77/griffin-chrome-image:dev",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Development"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ]
+}
